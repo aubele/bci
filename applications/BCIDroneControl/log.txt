@@ -1,0 +1,4 @@
+2016-10-26 15:58:13 DroneControlGUI: +++BCI drone control startet
+2016-10-26 15:58:13 DroneControlGUI: Start building GUI
+2016-10-26 15:58:13 DroneControlGUI: Finished building GUI
+2016-10-26 15:58:17 DroneControlGUI: +++BCI drone control stopped

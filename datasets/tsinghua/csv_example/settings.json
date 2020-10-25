@@ -1,0 +1,32 @@
+{
+    "dataDir": "data/",
+    "csvDir": "csv/",
+    "frequencyValues": [
+        9,
+        11,
+        13
+    ],
+    "subjects": [
+        1
+    ],
+    "trainBlocks": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "twentyTwentySpots": [
+        "PZ",
+        "PO3",
+        "PO4",
+        "O1",
+        "Oz",
+        "O2",
+        "PO7",
+        "PO8"
+    ],
+    "testBlocks": [
+        4,
+        5
+    ]
+}

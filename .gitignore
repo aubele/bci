@@ -1,0 +1,6 @@
+.idea/
+datasets/bakardjian/csv
+openvibe_csv_classifier_training/configuration/*.cfg
+openvibe_csv_classifier_training/classifiers/*.cfg
+**/*.pyc
+.ipynb_checkpoints/

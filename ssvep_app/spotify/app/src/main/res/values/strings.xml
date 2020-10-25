@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BCI Smart Home</string>
+    <string name="config_name">BCI Smart Home - Configurations</string>
+    <string name="main_name">BCI Smart Home - Controls</string>
+</resources>
